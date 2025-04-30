@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm an aspiring Machine Learning Engineer with a strong passion for applying Artificial Intelligence to solve impactful real-world problems.
+I am Nikhil C R, an aspiring Machine Learning Engineer with a strong passion for applying Artificial Intelligence to solve impactful real-world problems.
 
 My core interests revolve around:
 
